@@ -9,3 +9,5 @@ def sum_int(*args):
 # aaaaa
 
 # zadanie 7777dddddd
+
+# zadanie6
