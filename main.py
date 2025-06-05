@@ -7,3 +7,5 @@ def sum_int(*args):
     return sum(args)
 
 # aaaaa
+
+# zadanie 7777
